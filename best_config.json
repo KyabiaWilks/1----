@@ -1,0 +1,20 @@
+{
+  "exp_id": 6,
+  "config": {
+    "voting_metric": "confidence",
+    "voting_power": 8.3,
+    "first_stage_token_limit": 0,
+    "k": 64,
+    "max_items": 1000,
+    "save_interval": 10,
+    "keyword_weight_multiplier": 10.0,
+    "keyword_window_size": 40
+  },
+  "status": "success",
+  "accuracy": 0.831,
+  "total_tokens": 145449409,
+  "total_questions": 1000,
+  "duration": 1778.6788079738617,
+  "output_file": "results/exp_6_conf_n0_m64_20251018_085857.json",
+  "timestamp": "20251018_085857"
+}

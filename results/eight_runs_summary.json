@@ -1,0 +1,90 @@
+[
+  {
+    "metric": "confidence",
+    "power": 8.3,
+    "N_first_stage": 0,
+    "M_top_traces": 64,
+    "accuracy": 0.831,
+    "total_tokens": 145449409,
+    "total_questions": 1000,
+    "output_file": "results/exp_6_conf_n0_m64_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "confidence",
+    "power": 8.3,
+    "N_first_stage": 50,
+    "M_top_traces": 16,
+    "accuracy": 0.81,
+    "total_tokens": 38922230,
+    "total_questions": 1000,
+    "output_file": "results/exp_5_conf_n50_m16_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "self_certainty",
+    "power": 8.3,
+    "N_first_stage": 0,
+    "M_top_traces": 64,
+    "accuracy": 0.824,
+    "total_tokens": 145449409,
+    "total_questions": 1000,
+    "output_file": "results/exp_8_sc_n0_m64_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "self_certainty",
+    "power": 8.3,
+    "N_first_stage": 50,
+    "M_top_traces": 16,
+    "accuracy": 0.794,
+    "total_tokens": 38922230,
+    "total_questions": 1000,
+    "output_file": "results/exp_7_sc_n50_m16_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "confidence",
+    "power": 16.4,
+    "N_first_stage": 0,
+    "M_top_traces": 64,
+    "accuracy": 0.822,
+    "total_tokens": 145449409,
+    "total_questions": 1000,
+    "output_file": "results/exp_2_conf_n0_m64_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "confidence",
+    "power": 16.4,
+    "N_first_stage": 50,
+    "M_top_traces": 16,
+    "accuracy": 0.806,
+    "total_tokens": 38922230,
+    "total_questions": 1000,
+    "output_file": "results/exp_1_conf_n50_m16_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "self_certainty",
+    "power": 16.4,
+    "N_first_stage": 0,
+    "M_top_traces": 64,
+    "accuracy": 0.815,
+    "total_tokens": 145449409,
+    "total_questions": 1000,
+    "output_file": "results/exp_4_sc_n0_m64_20251018_085857.json",
+    "status": "success"
+  },
+  {
+    "metric": "self_certainty",
+    "power": 16.4,
+    "N_first_stage": 50,
+    "M_top_traces": 16,
+    "accuracy": 0.795,
+    "total_tokens": 38922230,
+    "total_questions": 1000,
+    "output_file": "results/exp_3_sc_n50_m16_20251018_085857.json",
+    "status": "success"
+  }
+]

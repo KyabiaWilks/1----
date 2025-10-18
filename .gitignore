@@ -1,0 +1,12 @@
+# Large files excluded from GitHub
+results/exp_5_conf_n50_m16_20251018_085857.json
+results/exp_6_conf_n0_m64_20251018_085857.json
+test_data/mmlu-redux/openPangu-Embedded-7B_n64.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
